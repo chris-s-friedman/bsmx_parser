@@ -12,7 +12,7 @@ Python >= 3.7
 
 Using pip
 
-`pip install -e git+https://git@github.com:chris-s-friedman/bsmx_parser.git#egg=kf_utils`
+`pip install -e git+https://git@github.com:chris-s-friedman/bsmx_parser.git`
 
 ## Running the tests
 
@@ -54,7 +54,7 @@ coming soon...
 
 ## License
 
-This project is licensed under the Apache2.0 License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the Apache2.0 License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
